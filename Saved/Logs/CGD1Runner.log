@@ -935,3 +935,252 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.04-13.20.38:151][  0]LogAssetRegistry: Asset discovery search completed in 5.4072 seconds
 [2021.01.04-13.20.38:159][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.01.04-13.20.38:247][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.04-13.46.43:654][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:\Users\home\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:\Users\home\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.04-13.46.43:655][305]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.01.04-13.47.53:746][984]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.04-13.48.11:268][ 10]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.04-13.48.14:669][207]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.04-13.48.18:211][414]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.01.04-13.48.24:216][771]Cmd: DELETE
+[2021.01.04-13.48.24:216][771]Cmd: ACTOR DELETE
+[2021.01.04-13.48.24:221][771]LogEditorActor: Deleted Actor: Brush
+[2021.01.04-13.48.24:233][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.04-13.48.24:239][771]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.01.04-13.48.30:974][170]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.04-13.48.31:004][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.01.04-13.48.31:516][170]LogSavePackage: Moving '../../../../../../Unreal4/CGD1/CGD1Runner/Saved/ThirdPersonExampleMapC938720B42EBB4468682C3A3F4DADB70.tmp' to '../../../../../../Unreal4/CGD1/CGD1Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.04-13.48.31:769][170]LogSavePackage: Moving '../../../../../../Unreal4/CGD1/CGD1Runner/Saved/ThirdPersonExampleMap_BuiltData9F1DFCB54B0EDCD4DA04C28000EBE752.tmp' to '../../../../../../Unreal4/CGD1/CGD1Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.04-13.48.31:779][170]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.04-13.48.31:779][170]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.04-13.48.31:779][170]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.04-13.48.34:120][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.48.49:676][227]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.50.07:054][227]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.04-13.50.08:625][227]LogSourceControl: commit successful: [main 24a029a] added objects to base scene
+[2021.01.04-13.50.08:682][227]SourceControl: [main 24a029a] added objects to base scene
+[2021.01.04-13.50.08:682][227]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2021.01.04-13.50.08:691][227]SourceControl: Commited [main 24a029a] added objects to base scene.
+[2021.01.04-13.52.42:645][652]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/colour/red.red
+[2021.01.04-13.52.42:646][652]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.52.43:254][652]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.04-13.52.43:270][652]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.04-13.52.43:299][652]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.04-13.52.49:098][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.01.04-13.52.50:997][ 17]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.01.04-13.52.50:997][ 17]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.01.04-13.52.50:997][ 17]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.01.04-13.52.50:997][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2021.01.04-13.52.51:120][ 17]LogSlate: Took 0.113204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.04-13.52.53:150][139]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.52.53:162][139]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.04-13.52.53:201][140]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.04-13.52.53:485][154]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.52.53:497][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.52.54:645][201]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.04-13.52.54:885][212]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2021.01.04-13.52.55:612][243]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.04-13.52.55:865][254]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.01.04-13.52.56:145][266]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.01.04-13.52.56:205][269]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.04-13.52.56:267][272]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.04-13.52.56:282][273]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.01.04-13.52.56:770][291]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.04-13.52.57:021][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.01.04-13.52.57:237][307]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.52.57:325][309]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.04-13.52.57:537][318]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.01.04-13.52.58:051][339]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.04-13.52.58:932][377]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.04-13.52.59:079][382]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.01.04-13.52.59:363][392]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.01.04-13.52.59:400][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.01.04-13.52.59:520][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.04-13.52.59:714][406]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.01.04-13.53.00:114][424]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.04-13.53.00:199][429]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.01.04-13.53.00:753][454]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.04-13.53.01:117][471]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.01.04-13.53.01:183][474]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.01:212][474]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.01:766][496]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2021.01.04-13.53.01:912][500]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.04-13.53.01:997][503]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.04-13.53.02:341][513]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.01.04-13.53.02:810][530]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.01.04-13.53.02:973][537]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.04-13.53.03:042][540]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.04-13.53.03:517][559]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.04-13.53.03:682][566]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.03:708][566]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.03:913][573]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.01.04-13.53.04:431][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.04-13.53.04:537][596]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.01.04-13.53.04:630][600]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.01.04-13.53.05:070][619]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.04-13.53.05:583][641]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.05:612][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.05:755][647]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.04-13.53.06:200][664]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.01.04-13.53.06:346][670]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.01.04-13.53.06:714][686]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.01.04-13.53.06:806][689]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.04-13.53.07:744][729]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.07:771][729]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.08:035][740]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.04-13.53.08:035][740]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.01.04-13.53.08:035][740]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.01.04-13.53.08:057][741]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.01.04-13.53.08:508][759]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.01.04-13.53.08:646][765]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.08:672][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.08:974][775]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.04-13.53.09:655][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.01.04-13.53.09:799][805]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.01.04-13.53.10:095][817]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.01.04-13.53.10:703][840]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.04-13.53.10:965][847]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.04-13.53.11:047][850]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.04-13.53.11:455][869]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.01.04-13.53.11:821][883]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.01.04-13.53.12:050][891]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.01.04-13.53.12:144][894]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.12:170][894]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.12:549][909]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.01.04-13.53.13:032][929]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.01.04-13.53.13:146][934]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2021.01.04-13.53.13:461][944]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.01.04-13.53.13:640][951]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.01.04-13.53.13:959][964]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.01.04-13.53.14:397][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2021.01.04-13.53.14:845][  2]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.14:868][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2021.01.04-13.53.14:882][  2]LogSlate: Window 'Color Picker' being destroyed
+[2021.01.04-13.53.14:951][  5]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.01.04-13.53.15:101][ 11]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.01.04-13.53.15:344][ 20]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.01.04-13.53.15:582][ 30]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.01.04-13.53.15:997][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.01.04-13.53.16:886][ 83]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.01.04-13.53.17:245][ 93]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.01.04-13.53.17:298][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.01.04-13.53.17:409][100]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.01.04-13.53.17:645][108]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.01.04-13.53.18:185][130]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.01.04-13.53.18:461][142]LogMaterialEditor: Applying material red
+[2021.01.04-13.53.19:431][142]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.01.04-13.53.19:431][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.01.04-13.53.19:441][142]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.01.04-13.53.19:489][142]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.01.04-13.53.19:500][142]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2021.01.04-13.53.19:551][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.01.04-13.53.19:562][142]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.01.04-13.53.20:686][142]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.01.04-13.53.20:686][142]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2021.01.04-13.53.20:686][142]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.01.04-13.53.21:245][142]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.01.04-13.53.21:268][142]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.01.04-13.53.21:277][142]TextureStreamingBuild: Display: Compiling optional shaders took 1.724 seconds.
+[2021.01.04-13.53.21:292][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.04-13.53.23:170][219]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.01.04-13.53.23:729][236]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.01.04-13.53.23:729][236]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.01.04-13.53.24:148][255]LogMaterialEditor: Saving and Compiling material red
+[2021.01.04-13.53.24:939][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/colour/red" FILE="../../../../../../Unreal4/CGD1/CGD1Runner/Content/colour/red.uasset" SILENT=true
+[2021.01.04-13.53.24:951][255]LogSavePackage: Moving '../../../../../../Unreal4/CGD1/CGD1Runner/Saved/red014E9070447593B659B8BBA6BADE8248.tmp' to '../../../../../../Unreal4/CGD1/CGD1Runner/Content/colour/red.uasset'
+[2021.01.04-13.53.25:225][255]AssetCheck: New page: Asset Save: red
+[2021.01.04-13.53.25:225][255]LogContentValidation: Display: Validating Material /Game/colour/red.red
+[2021.01.04-13.53.25:230][255]MaterialEditorStats: Base pass shader: 118 instructions
+[2021.01.04-13.53.25:230][255]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2021.01.04-13.53.25:230][255]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2021.01.04-13.53.25:230][255]MaterialEditorStats: Texture samplers: 3/16
+[2021.01.04-13.53.32:759][697]LogSlate: Window 'red' being destroyed
+[2021.01.04-13.53.32:763][697]LogSlate: Window 'red' being destroyed
+[2021.01.04-13.53.32:784][697]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.04-13.53.32:784][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.04-13.54.18:375][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.04-13.54.18:433][385]LogSavePackage: Moving '../../../../../../Unreal4/CGD1/CGD1Runner/Saved/ThirdPersonExampleMapF1F16F4347F42982BA74558144A7E6AA.tmp' to '../../../../../../Unreal4/CGD1/CGD1Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.04-13.54.18:629][385]LogSavePackage: Moving '../../../../../../Unreal4/CGD1/CGD1Runner/Saved/ThirdPersonExampleMap_BuiltDataF5F562C64B5EA28DD518CFB2756618C0.tmp' to '../../../../../../Unreal4/CGD1/CGD1Runner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.04-13.54.18:639][385]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.04-13.54.18:640][385]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.04-13.54.18:640][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.04-13.54.19:117][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:881][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.24:882][741]SourceControl: fatal: D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Program Files/EpicGames/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/Unreal4/CGD1/CGD1Runner'
+[2021.01.04-13.54.40:610][741]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.04-13.54.42:340][741]LogSourceControl: commit successful: [main 6c808ad] added red to side of object
+[2021.01.04-13.54.42:441][741]SourceControl: [main 6c808ad] added red to side of object
+[2021.01.04-13.54.42:441][741]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2021.01.04-13.54.42:441][741]SourceControl:  create mode 100644 Content/colour/red.uasset
+[2021.01.04-13.54.42:451][741]SourceControl: Commited [main 6c808ad] added red to side of object.
